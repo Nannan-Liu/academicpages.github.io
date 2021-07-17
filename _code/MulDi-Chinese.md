@@ -1,9 +1,8 @@
 ---
-title: "Multidimensional Analysis Tagger of Mandarin Chinese"
-excerpt: "MulDi Chinese extends Biber’s (1988) analysis of English registers to Mandarin Chinese."
+title: "muldichinese: A multidimensional Chinese register analyser"
+excerpt: "MulDi Chinese assesses the register type of Mandarin Chinese texts."
 collection: code
 ---
 
-[MulDi Chinese repository on GitHub](https://github.com/Nannan-Liu/Multidimensional-Analysis-Tagger-of-Mandarin-Chinese)
-
-A Python programme for analysing Chinese registers.
+[muldichinese repository on GitHub](https://github.com/Nannan-Liu/Multidimensional-Analysis-Tagger-of-Mandarin-Chinese)
+Install muldichinese: `pip install muldichinese`
