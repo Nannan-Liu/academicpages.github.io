@@ -19,9 +19,10 @@ collection: code
    
     b) Transform your data when needed (see many examples in [Coupé, 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00513/full))  
    
-    c) Adequate number of samples: Use Fisher-Yates exact test when the frequency in one cell is smaller than 5, not Pearson's chi-square test with Yates  
+    c) Adequate number of samples: Use Fisher-Yates exact test when the frequency in one cell is smaller than 5, not Pearson's chi-square test
 
- 4. Variable selection
+ 4. Variable selection  
+ 
     a) Always go for multivariate designs---monofactorial studies "have virtually nothing to contribute to corpus linguistics" ([Gries, 2018, p. 295](https://benjamins.com/catalog/jsls.00005.gri)) and linguistics in general. Never go feature shopping!  
    
     b) Choose features that are meaningful in relation to the language system, not the "teddy bears" (Cf. [Type III error](http://web.stanford.edu/group/bps/cgi-bin/wordpress/wp-content/uploads/2015/06/Tate.pdf))  
