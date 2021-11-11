@@ -1,5 +1,5 @@
 ---
-title: "CL2281: Translation-and Interpretation Final Lecture"
+title: "CL2281: Translation and Interpretation Final Lecture"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CL2281-Translation-and-Interpretation-Final-Lecture
