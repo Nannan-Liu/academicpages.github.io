@@ -7,6 +7,8 @@ venue: "Translation Minor Programme, NUS"
 date: 2021-11-01
 location: "Singapore"
 ---
+
+
 [[Practice Package]](https://drive.google.com/drive/folders/1KqfR23hOc1bSHJaErnJczjOOhCmDevRi?usp=sharing)
 
 [[Useful Reference Package]](https://drive.google.com/file/d/1JCfllsFbYMCnjmQcOIzXukLD4agG5hIC/view?usp=sharing)
