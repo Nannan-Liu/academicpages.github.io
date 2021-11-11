@@ -15,7 +15,7 @@ collection: code
 
  3. Model assumptions  
 
-    a)  Normal distribution: Almost all variables in T&I and linguistics, e.g. word legth, dimension scores, and information density, have non-normal distributions, so do Shapiro-Wilk first, and use non-parametric statistics, e.g. Kruskal-Wallis test (not one-way ANOVA) and Spearman's rank correlation (not Pearson's correlation).  
+    a)  Normal distribution: Almost all variables in T & I and linguistics, e.g. word legth, dimension scores, and information density, have non-normal distributions, so do Shapiro-Wilk first, and use non-parametric statistics, e.g. Kruskal-Wallis test (not one-way ANOVA) and Spearman's rank correlation (not Pearson's correlation).  
    
     b) Transform your data when needed (see many examples in [Coupé, 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00513/full))  
    
