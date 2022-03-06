@@ -243,6 +243,16 @@ defaults:
       author_profile: true
       share: true
 
+  #blog
+  # _talks
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: blog
+      author_profile: true
+      share: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
