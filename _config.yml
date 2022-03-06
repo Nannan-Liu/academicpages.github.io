@@ -247,7 +247,7 @@ defaults:
       share: true
 
   #blog
-  # _talks
+  # blogs
   - scope:
       path: ""
       type: blog
