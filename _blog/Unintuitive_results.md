@@ -1,7 +1,7 @@
 ---
 title: "When your statistical results are unintuitive or counterintuitive"
 excerpt: "This is in response to an interview question."
-collection: code
+collection: blog
 ---
 
 
