@@ -1,5 +1,5 @@
 ---
-title: "Chinese-English Consecutive Interpreting"
+title: "Chinese–English Consecutive Interpreting"
 collection: teaching
 type: "Summer course"
 permalink: /teaching/2015-summer-teaching-1

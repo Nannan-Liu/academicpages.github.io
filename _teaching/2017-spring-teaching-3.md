@@ -1,5 +1,5 @@
 ---
-title: "Chinese-English Translation"
+title: "Chinese–English Translation"
 collection: teaching
 type: "MA course"
 permalink: /teaching/2017-spring-teaching-3

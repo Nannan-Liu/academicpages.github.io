@@ -1,5 +1,5 @@
 ---
-title: "English-Chinese Simultaneous Interpreting"
+title: "English–Chinese Simultaneous Interpreting"
 collection: teaching
 type: "Summer course"
 permalink: /teaching/2016-summer-teaching-2
