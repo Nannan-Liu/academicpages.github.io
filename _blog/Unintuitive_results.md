@@ -33,6 +33,6 @@ collection: blog
 
     a) Report effect sizes, aim for "good to excellent" model performances  
    
-    b) Check VIFs, try removing interactions that are not absolutely necessary  
+    b) Check multicollinearity issues with variance inflation factors (VIFs) or generalised VIFs, where appropriate, remove interactions that are not absolutely necessary  
     
     
