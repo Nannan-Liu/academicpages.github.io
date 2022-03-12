@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-4
 venue: "Translation Programme, HKU"
+date: 2017-01-01
 location: "Hong Kong"
 ---
 Spring 2017 & 2018

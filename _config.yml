@@ -184,7 +184,7 @@ collections:
     permalink: /:collection/:path/
   blog:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:post/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -245,7 +245,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
   #blog
   # blogs
   - scope:
