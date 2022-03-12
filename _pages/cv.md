@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* May-June 2016: Simultaneous Interpreter
+* May–June 2016: Simultaneous Interpreter
   * United Nations Geneva Office
   * Duties included: Chinese booth interpreter at 105th Session of the International Labour Conference
 
@@ -44,20 +44,19 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-    {% for post in site.talks reversed %} 
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
