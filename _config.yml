@@ -184,7 +184,7 @@ collections:
     permalink: /:collection/:path/
   blog:
     output: true
-    permalink: /:post/:path/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -245,15 +245,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  #blog
-  # blogs
+  # _blog
   - scope:
       path: ""
       type: blog
     values:
-      layout: blog
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
 
 # Sass/SCSS
 sass:
