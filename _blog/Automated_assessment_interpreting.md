@@ -4,6 +4,7 @@ excerpt: "Code and design philosophy that may inform the development of an autom
 collection: blog
 ---
 
+Disclaimer: This information is shared in the hope that it will be useful, but without any warranty or intention of advertising or endorsement. 
 
  1. [Speechace](https://www.speechace.com/)
 
