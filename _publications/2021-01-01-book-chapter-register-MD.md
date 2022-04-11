@@ -8,4 +8,4 @@ venue: 'Translating and Interpreting Political Discourse: New Trends and Perspec
 citation: 'Liu, N. (2022). Register shifts in political conference interpreting: A multidimensional analysis. In J. Pan, S. L. Halverson, & J. Munday (Eds.), <i>Translating and Interpreting Political Discourse: New Trends and Perspectives</i>. Leiden: Brill.'
 ---
 
-[[PDF]](https://drive.google.com/file/d/1WBu5M6ECi65Ub3EJyv_xKJ-ga-q_0gtT/view?usp=sharing)
+[[PDF]](https://drive.google.com/file/d/1lqQ69ypJj8QAJBDGrzvzLaDl1XgLroot/view?usp=sharing)
