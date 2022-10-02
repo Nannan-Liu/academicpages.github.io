@@ -85,9 +85,9 @@ author:
   bio              : "interpreting researcher"
   location         : "Hong Kong"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "nnl93@connect.hku.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=H4cCCgYAAAAJ&hl=en"
+  email            : "nannanliu@hkbu.edu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Nannan-Liu-5"
   uri              :
   bitbucket        :
   codepen          :
