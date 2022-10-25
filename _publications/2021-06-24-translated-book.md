@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-01-01-translated-book
 pubtype: 'translation'
 date: 2021-06-24
-venue: 'The Chinese University of Hong Kong Press'
+citation: 'Cohen, Paul A. (2021/2022). Traditional and simplified Chinese versions of <i>A Path Twice Traveled: My Journey as a Historian of China</i>. N. Liu, Trans. Hong Kong: The Chinese University of Hong Kong Press; Beijing: Social Sciences Academic Press.'
 ---
 [Link to book](https://cup.cuhk.edu.hk/index.php?route=product/product&product_id=4134)
 
