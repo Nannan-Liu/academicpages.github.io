@@ -1,6 +1,6 @@
 ---
 title: "Regression analysis"
-excerpt: "Useful links on concepts in regression analysis."
+excerpt: "Useful links on concepts in regression analysis"
 collection: code
 ---
 [Overview](https://slcladal.github.io/regression.html#22_Mixed-Effects_Binomial_Logistic_Regression)
