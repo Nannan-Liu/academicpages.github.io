@@ -8,7 +8,7 @@ I created an **unofficial** citation style for the journal [*Interpreting*](http
 
 To use the style, [download it](https://nannan-liu.github.io/files/interpreting.csl) to your computer. Open your reference management software, e.g. Zotero, click 'Preferences ... ', navigate to the 'Cite' pane, and click the plus sign. Click the csl file and open it in Zotero. 
 
-![Use the Interpreting style in Zotero](/_Code/Interpreting_style.png)
+![Use the Interpreting style in Zotero](./_Code/Interpreting_style.png)
 
 Voilà! Now you can set the Document Preferences in the Zotero pane of MS Word to Interpreting. 
 
