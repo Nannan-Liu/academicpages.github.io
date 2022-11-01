@@ -1,4 +1,3 @@
-
 ---
 title: "An ***unofficial*** citation style for <i>Interpreting</i>"
 excerpt: "Download the csl file and add it to your citation style manager"
